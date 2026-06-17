@@ -18,7 +18,7 @@ AI-enabled monitoring assistant for cold-room temperature and humidity feeds.
   - AI operational summary
 
 ## Quick start
-1. Create and activate virtual environment.
+1. Create and activate a virtual environment.
 2. Install dependencies.
 3. Run Streamlit app.
 
@@ -44,9 +44,6 @@ timestamp,temperature_c,humidity_pct
 - `data/mock_sensor_feed.json`: S3-ready mock JSON dataset.
 - `docs/architecture.md`: Architecture diagram.
 - `docs/aws_setup.md`: S3-first AWS integration steps (with DynamoDB optional path).
-- `docs/demo_script.md`: Voiceover script for demo recording.
-- `docs/submission_one_pager.md`: Final one-page submission content.
-- `docs/scoring_alignment.md`: Talking points aligned to judging criteria.
 
 ## Google Drive submission checklist
 1. Architecture diagram: use `docs/architecture.md`.
@@ -54,6 +51,6 @@ timestamp,temperature_c,humidity_pct
 3. One-page template response: use `docs/submission_one_pager.md`.
 
 ## Notes
-- If `OPENAI_API_KEY` is present, app calls an LLM to generate summary text.
-- Without API key, app uses deterministic fallback summary.
+- If `OPENAI_API_KEY` is present, the app calls an LLM to generate summary text.
+- Without an API key, the app uses a deterministic fallback summary.
 - For AWS mode, provide AWS credentials and pick `AWS S3 (Mock JSON/CSV)` in the sidebar.
