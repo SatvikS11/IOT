@@ -1,0 +1,272 @@
+[
+  {
+    "timestamp": "2026-03-21T08:00:00Z",
+    "temperature_c": 4.55,
+    "humidity_pct": 55.92
+  },
+  {
+    "timestamp": "2026-03-21T08:05:00Z",
+    "temperature_c": 4.56,
+    "humidity_pct": 54.43
+  },
+  {
+    "timestamp": "2026-03-21T08:10:00Z",
+    "temperature_c": 4.43,
+    "humidity_pct": 54.62
+  },
+  {
+    "timestamp": "2026-03-21T08:15:00Z",
+    "temperature_c": 4.8,
+    "humidity_pct": 55.76
+  },
+  {
+    "timestamp": "2026-03-21T08:20:00Z",
+    "temperature_c": 4.79,
+    "humidity_pct": 55.45
+  },
+  {
+    "timestamp": "2026-03-21T08:25:00Z",
+    "temperature_c": 4.67,
+    "humidity_pct": 55.33
+  },
+  {
+    "timestamp": "2026-03-21T08:30:00Z",
+    "temperature_c": 4.3,
+    "humidity_pct": 56.54
+  },
+  {
+    "timestamp": "2026-03-21T08:35:00Z",
+    "temperature_c": 4.69,
+    "humidity_pct": 55.9
+  },
+  {
+    "timestamp": "2026-03-21T08:40:00Z",
+    "temperature_c": 4.3,
+    "humidity_pct": 51.86
+  },
+  {
+    "timestamp": "2026-03-21T08:45:00Z",
+    "temperature_c": 4.44,
+    "humidity_pct": 54.16
+  },
+  {
+    "timestamp": "2026-03-21T08:50:00Z",
+    "temperature_c": 4.65,
+    "humidity_pct": 54.92
+  },
+  {
+    "timestamp": "2026-03-21T08:55:00Z",
+    "temperature_c": 4.69,
+    "humidity_pct": 53.84
+  },
+  {
+    "timestamp": "2026-03-21T09:00:00Z",
+    "temperature_c": 4.66,
+    "humidity_pct": 55.71
+  },
+  {
+    "timestamp": "2026-03-21T09:05:00Z",
+    "temperature_c": 4.48,
+    "humidity_pct": 58.09
+  },
+  {
+    "timestamp": "2026-03-21T09:10:00Z",
+    "temperature_c": 4.7,
+    "humidity_pct": 57.15
+  },
+  {
+    "timestamp": "2026-03-21T09:15:00Z",
+    "temperature_c": 4.49,
+    "humidity_pct": 53.67
+  },
+  {
+    "timestamp": "2026-03-21T09:20:00Z",
+    "temperature_c": 4.54,
+    "humidity_pct": 54.81
+  },
+  {
+    "timestamp": "2026-03-21T09:25:00Z",
+    "temperature_c": 4.71,
+    "humidity_pct": 55.45
+  },
+  {
+    "timestamp": "2026-03-21T09:30:00Z",
+    "temperature_c": 4.52,
+    "humidity_pct": 53.28
+  },
+  {
+    "timestamp": "2026-03-21T09:35:00Z",
+    "temperature_c": 4.51,
+    "humidity_pct": 57.2
+  },
+  {
+    "timestamp": "2026-03-21T09:40:00Z",
+    "temperature_c": 4.45,
+    "humidity_pct": 55.44
+  },
+  {
+    "timestamp": "2026-03-21T10:10:00Z",
+    "temperature_c": 4.68,
+    "humidity_pct": 52.32
+  },
+  {
+    "timestamp": "2026-03-21T10:15:00Z",
+    "temperature_c": 4.61,
+    "humidity_pct": 57.35
+  },
+  {
+    "timestamp": "2026-03-21T10:20:00Z",
+    "temperature_c": 4.24,
+    "humidity_pct": 54.42
+  },
+  {
+    "timestamp": "2026-03-21T10:25:00Z",
+    "temperature_c": 4.58,
+    "humidity_pct": 53.53
+  },
+  {
+    "timestamp": "2026-03-21T10:30:00Z",
+    "temperature_c": 4.69,
+    "humidity_pct": 54.89
+  },
+  {
+    "timestamp": "2026-03-21T10:35:00Z",
+    "temperature_c": 4.34,
+    "humidity_pct": 56.49
+  },
+  {
+    "timestamp": "2026-03-21T10:40:00Z",
+    "temperature_c": 4.72,
+    "humidity_pct": 56.7
+  },
+  {
+    "timestamp": "2026-03-21T10:45:00Z",
+    "temperature_c": 5.14,
+    "humidity_pct": 55.65
+  },
+  {
+    "timestamp": "2026-03-21T10:50:00Z",
+    "temperature_c": 5.18,
+    "humidity_pct": 52.66
+  },
+  {
+    "timestamp": "2026-03-21T10:55:00Z",
+    "temperature_c": 5.55,
+    "humidity_pct": 53.9
+  },
+  {
+    "timestamp": "2026-03-21T11:00:00Z",
+    "temperature_c": 5.64,
+    "humidity_pct": 52.72
+  },
+  {
+    "timestamp": "2026-03-21T11:05:00Z",
+    "temperature_c": 5.83,
+    "humidity_pct": 54.04
+  },
+  {
+    "timestamp": "2026-03-21T11:10:00Z",
+    "temperature_c": 6.51,
+    "humidity_pct": 51.34
+  },
+  {
+    "timestamp": "2026-03-21T11:15:00Z",
+    "temperature_c": 6.3,
+    "humidity_pct": 55.43
+  },
+  {
+    "timestamp": "2026-03-21T11:20:00Z",
+    "temperature_c": 7.1,
+    "humidity_pct": 56.04
+  },
+  {
+    "timestamp": "2026-03-21T11:25:00Z",
+    "temperature_c": 6.78,
+    "humidity_pct": 50.47
+  },
+  {
+    "timestamp": "2026-03-21T11:30:00Z",
+    "temperature_c": 7.46,
+    "humidity_pct": 53.67
+  },
+  {
+    "timestamp": "2026-03-21T11:35:00Z",
+    "temperature_c": 7.48,
+    "humidity_pct": 56.76
+  },
+  {
+    "timestamp": "2026-03-21T11:40:00Z",
+    "temperature_c": 8.26,
+    "humidity_pct": 55.28
+  },
+  {
+    "timestamp": "2026-03-21T11:45:00Z",
+    "temperature_c": 8.35,
+    "humidity_pct": 57.87
+  },
+  {
+    "timestamp": "2026-03-21T11:50:00Z",
+    "temperature_c": 7.81,
+    "humidity_pct": 55.99
+  },
+  {
+    "timestamp": "2026-03-21T11:55:00Z",
+    "temperature_c": 8.33,
+    "humidity_pct": 56.72
+  },
+  {
+    "timestamp": "2026-03-21T12:00:00Z",
+    "temperature_c": 8.41,
+    "humidity_pct": 39.83
+  },
+  {
+    "timestamp": "2026-03-21T12:05:00Z",
+    "temperature_c": 7.87,
+    "humidity_pct": 43.93
+  },
+  {
+    "timestamp": "2026-03-21T12:10:00Z",
+    "temperature_c": 8.28,
+    "humidity_pct": 42.78
+  },
+  {
+    "timestamp": "2026-03-21T12:15:00Z",
+    "temperature_c": 4.62,
+    "humidity_pct": 41.21
+  },
+  {
+    "timestamp": "2026-03-21T12:20:00Z",
+    "temperature_c": 4.53,
+    "humidity_pct": 42.03
+  },
+  {
+    "timestamp": "2026-03-21T12:25:00Z",
+    "temperature_c": 4.44,
+    "humidity_pct": 43.76
+  },
+  {
+    "timestamp": "2026-03-21T12:30:00Z",
+    "temperature_c": 4.52,
+    "humidity_pct": 52.52
+  },
+  {
+    "timestamp": "2026-03-21T12:35:00Z",
+    "temperature_c": 4.58,
+    "humidity_pct": 54.73
+  },
+  {
+    "timestamp": "2026-03-21T12:40:00Z",
+    "temperature_c": 4.55,
+    "humidity_pct": 57.53
+  },
+  {
+    "timestamp": "2026-03-21T12:45:00Z",
+    "temperature_c": 4.42,
+    "humidity_pct": 57.27
+  },
+  {
+    "timestamp": "2026-03-21T12:50:00Z",
+    "temperature_c": 4.37,
+    "humidity_pct": 53.58
+  }
+]

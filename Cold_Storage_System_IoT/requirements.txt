@@ -1,0 +1,6 @@
+streamlit==1.42.0
+pandas==2.2.3
+numpy==2.2.2
+plotly==6.0.0
+openai==1.65.2
+boto3==1.38.0
